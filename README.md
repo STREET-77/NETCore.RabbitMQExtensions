@@ -1,0 +1,2 @@
+# NETCore.RabbitMQExtensions
+rabbitmq extensions
